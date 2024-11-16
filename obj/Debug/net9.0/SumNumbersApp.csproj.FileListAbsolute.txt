@@ -1,0 +1,15 @@
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\bin\Debug\net9.0\SumNumbersApp.exe
+C:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\bin\Debug\net9.0\SumNumbersApp.deps.json
+C:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\bin\Debug\net9.0\SumNumbersApp.runtimeconfig.json
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\bin\Debug\net9.0\SumNumbersApp.dll
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\bin\Debug\net9.0\SumNumbersApp.pdb
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.AssemblyInfoInputs.cache
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.AssemblyInfo.cs
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.csproj.CoreCompileInputs.cache
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.sourcelink.json
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.dll
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\refint\SumNumbersApp.dll
+c:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.pdb
+C:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\SumNumbersApp.genruntimeconfig.cache
+C:\Users\JunniorSoftware\Documents\Projects\SumNumbersApp\obj\Debug\net9.0\ref\SumNumbersApp.dll
